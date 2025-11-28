@@ -128,16 +128,6 @@ rainfall-prediction/
 
 ## 🏁 **Conclusion**
 
-This project shows that **Machine Learning techniques significantly improve rainfall forecasting accuracy**.
-With Random Forest performing the best, the system can support:
-
-✔ Agricultural planning
-✔ Flood prevention
-✔ Water resource management
-
-Future improvements include:
-✔ Live API weather data
-✔ Deep Learning models
-✔ Web-based version
+This project demonstrates that machine learning techniques can significantly improve the accuracy of rainfall prediction compared to traditional methods. By training models on historical weather data, we identified the Random Forest model as the most suitable for generating reliable predictions. The system provides a user-friendly platform that can assist in agricultural planning, disaster management, and weather-based decision-making. Future enhancements may include integrating real-time weather data, optimizing model performance, and deploying the system as a web-based application.
 
 ---
